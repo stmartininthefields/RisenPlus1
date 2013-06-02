@@ -1,0 +1,8 @@
+Google-Map-Location
+
+lat 32.9310746207853
+lon-97.20252513885498
+
+shortcode in the Risen theme:
+
+[google_map latitude="32.9310746207853" longitude="-97.20252513885498" type="roadmap" zoom="14" border="no" height_percent="50"]
